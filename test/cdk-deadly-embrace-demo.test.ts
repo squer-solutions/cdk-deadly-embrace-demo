@@ -3,11 +3,11 @@
 // import * as CdkDeadlyEmbraceDemo from '../lib/cdk-deadly-embrace-demo-stack';
 
 // example test. To run these tests, uncomment this file along with the
-// example resource in lib/cdk-deadly-embrace-demo-stack.ts
+// example resource in lib/producing-stack.ts
 test('SQS Queue Created', () => {
 //   const app = new cdk.App();
 //     // WHEN
-//   const stack = new CdkDeadlyEmbraceDemo.CdkDeadlyEmbraceDemoStack(app, 'MyTestStack');
+//   const stack = new CdkDeadlyEmbraceDemo.ProducingStack(app, 'MyTestStack');
 //     // THEN
 //   const template = Template.fromStack(stack);
 
