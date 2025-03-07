@@ -1,0 +1,8 @@
+regions:
+  - eu-west-1
+
+blocklist:
+  - 1234567890
+
+accounts:
+  "120569641802": {}
