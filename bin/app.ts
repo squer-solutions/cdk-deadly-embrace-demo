@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import * as cdk from 'aws-cdk-lib';
-import { ProducingStack } from '../lib/producing-stack';
+import {ProducingStack} from '../lib/producing-stack';
 import {ConsumingStack} from "../lib/consuming-stack";
 
 const app = new cdk.App();
